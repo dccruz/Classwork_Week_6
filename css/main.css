@@ -1,0 +1,19 @@
+div {
+	height: 250px;
+	width: 250px;
+	
+}
+.first{
+	background-color: orange;
+}
+
+.sp{
+	background-color: purple;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+ .highlight{
+    background-color: yellow;
+  }
+
